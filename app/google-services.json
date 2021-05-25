@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "714576642547",
+    "firebase_url": "https://myxspace-311cc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "myxspace-311cc",
+    "storage_bucket": "myxspace-311cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714576642547:android:27d76b21bcb0322b55d286",
+        "android_client_info": {
+          "package_name": "com.myxspace.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714576642547-ll6ijgvrf70c7v0jvd2e838tj4vmc6he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlUdlqXUxEIcseKCYe8tC9G8KTY9nCcwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714576642547-ll6ijgvrf70c7v0jvd2e838tj4vmc6he.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

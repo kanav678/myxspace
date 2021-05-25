@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">myXspace</string>
+    <string name="duration">Min %1$d hours</string>
+    <string name="price">$%1$d/hr</string>
+    <string name="hostName">Hosted by %1$s</string>
+    <string name="greeting">Hi, %1$s</string>
+</resources>
